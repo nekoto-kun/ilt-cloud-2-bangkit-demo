@@ -1,0 +1,16 @@
+{
+  "name": "ilt-cloud-2-bangkit-demo",
+  "version": "1.0.0",
+  "description": "Create the simple RESTFul API using Node.js Natively and Hapi Framework with the specification:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js",
+    "native": "node native.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
